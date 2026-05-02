@@ -1,4 +1,4 @@
-# 🎰 Gachapon Focus
+#  Gachapon Focus
 
 > A cute productivity app that rewards focused work sessions with collectible pixel-art toy capsules — inspired by Japanese gachapon vending machines.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ What is this?
+##  What is this?
 
 Gachapon Focus is a gamified Pomodoro-style app. You spin the virtual gachapon machine, receive a random toy companion and a focus task, work through a 25-minute timer — and if you complete the task, the toy is yours to keep in your growing collection.
 
@@ -16,7 +16,7 @@ Each toy has its own personality and set of creative, thoughtful focus tasks ran
 
 ---
 
-## 🎮 Features
+##  Features
 
 - **8 collectible pixel-art toys** — Bunny, Chick, Puppy, Bear, Kitty, Froggy, Hamster, and Star Pup
 - **25-minute Pomodoro timer** with pause, resume, and reset
@@ -27,7 +27,7 @@ Each toy has its own personality and set of creative, thoughtful focus tasks ran
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 | Main Screen | Task Modal | Collection |
 |---|---|---|
@@ -35,7 +35,7 @@ Each toy has its own personality and set of creative, thoughtful focus tasks ran
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ npm run typecheck
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 gachapon-focus/
@@ -112,7 +112,7 @@ gachapon-focus/
 
 ---
 
-## 🧸 The Toys
+## The Toys
 
 | Toy | Color | Personality |
 |-----|-------|-------------|
@@ -127,7 +127,7 @@ gachapon-focus/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18** with TypeScript
 - **Vite** for blazing-fast dev and builds
@@ -139,7 +139,7 @@ gachapon-focus/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Whether it's a new toy, a new task idea, a bug fix, or a UI improvement — check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
