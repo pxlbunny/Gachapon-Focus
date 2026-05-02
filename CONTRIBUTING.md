@@ -1,4 +1,4 @@
-# Contributing to Gachapon Focus 🎰
+# Contributing to Gachapon Focus 
 
 Thank you for wanting to contribute! This is a small passion project and all kinds of help are welcome — from pixel-art toys to bug fixes to new task ideas.
 
@@ -26,12 +26,12 @@ Please be kind and respectful. This is a welcoming space for all contributors re
 
 | Type | Examples |
 |------|---------|
-| 🐛 Bug fix | Timer glitch, layout issue, broken animation |
-| ✨ New toy | New pixel-art character with tasks |
-| 📝 New tasks | Extra focus tasks for existing toys |
-| 🎨 UI improvement | Better animations, accessibility, responsiveness |
-| 📖 Docs | Improve the README, add JSDoc comments |
-| 🧪 Tests | Add unit or integration tests |
+| Bug fix | Timer glitch, layout issue, broken animation |
+| New toy | New pixel-art character with tasks |
+| New tasks | Extra focus tasks for existing toys |
+| UI improvement | Better animations, accessibility, responsiveness |
+| Docs | Improve the README, add JSDoc comments |
+| Tests | Add unit or integration tests |
 
 ---
 
